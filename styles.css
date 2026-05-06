@@ -1,0 +1,116 @@
+p {
+	color:  #ff0000;
+}
+h1 {
+    color: green;
+}
+h2 {
+    color: blue;
+    font-style: italic;
+}
+h3 {
+    color: rgb(255, 236, 114);
+}
+th {
+	text-align: left;
+    font-weight: normal;
+}
+
+table {
+	width: 500px;
+}
+p {
+	text-align: center;
+}
+p2 {
+	color:  #ff0000;
+}
+h5 {
+	text-align: justify;
+	width: 300px;
+}
+h6 {
+    text-align: right;
+    width: 300px;
+}
+.huhu {
+    text-align: center;
+    width: 300;
+    font-style: italic;
+}
+td {
+    text-align: center;
+    font-weight: bold;
+}
+.haha {
+    width: 500px;
+    height: 300px;
+}
+.hihi {
+    font-size: 50px;
+    text-align: center;
+}
+.gigi {
+    font-size: 40px;
+    font-weight: normal;
+}
+p3 {
+    font-size: 30px;
+}
+.sigma {
+    font-size: 30px;
+	line-height: 45px;
+	text-align: justify;
+	width: 400px;
+}
+.aga {
+    font-family: "Times New Roman";
+	font-size: 13px;
+	line-height: 20px;
+}
+.ugu {
+    width: 300px;
+	font-family: Arial;
+	color: red;
+	font-size: 40px;
+	font-weight: bold
+}
+.igi {
+    font-family: Arial;
+	font-size: 40px;
+	font-weight: bold;
+	text-indent: 50px;
+	font-style: italic;
+	line-height: 60px;
+}
+.ogo {
+    text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}
+.ygy {
+    text-decoration: underline;
+}
+.tgt {
+    text-decoration: overline;
+}
+.pgp {
+    text-decoration: line-through;
+}
+a {
+	text-decoration: none;
+}
+.fgf {
+    color: blue;
+    font-size: 60px;
+}
+.qgq {
+    color: green;
+    font-size: 40px;
+}
+i {
+    color: green;
+}
+.b {
+    font-weight: bold;
+}
